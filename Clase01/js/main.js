@@ -1,4 +1,4 @@
-console.log("Hola");
+
 
 let numero1 = prompt ("NRO: ");
 let numero2 = prompt ("NRO: ");
